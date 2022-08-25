@@ -1,0 +1,22 @@
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+    width: 95%;
+    font-family: 'Aladin', cursive;
+    color: rgb(82, 4, 52);
+    box-shadow: 10px 15px rgb(25, 72, 73);
+}
+.note {
+    font-family: 'Rubik Dirt', cursive;
+    font-weight: normal;
+    font-size: large;
+    color: navy;
+}
+body {
+    background-size: cover;
+}
+
+  #song{
+    font-family: 'Righteous', cursive;
+  }
